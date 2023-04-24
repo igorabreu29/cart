@@ -1,0 +1,15 @@
+.cartContent {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+.cartContent button {
+    max-width: 10rem;
+    width: 100%;
+    color: black;
+
+    font-size: 1rem;
+}

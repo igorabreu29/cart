@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #1c1f26;
+    height: 100vh;
+}
+
+body, button, a {
+    color: white;
+    font-size: 1rem;
+    font-family: sans-serif;
+}
+
+a {
+    text-decoration: none;
+}
+
+button {
+    border: 0;
+    cursor: pointer;
+}
